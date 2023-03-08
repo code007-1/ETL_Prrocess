@@ -1,0 +1,7 @@
+ETL JOb Started 2023-03-08 05:10:00.521006
+Extraction Phase Started 2023-03-08 05:10:00.542988
+Extraction Phase Ended 2023-03-08 05:10:39.723429
+Tranformation Phase Started 2023-03-08 05:10:47.362386
+Tranformation Phase Ended 2023-03-08 05:11:31.307302
+load Phase Ended 2023-03-08 05:11:41.568278
+ETL JOB Finished 2023-03-08 05:11:41.599350
